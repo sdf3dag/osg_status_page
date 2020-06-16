@@ -1,0 +1,19 @@
+
+
+.jumbotron {
+    background-image: url("Multi-005-LG.jpg");
+    background-size: cover;
+    background: contain;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    height: 400px;
+    width: 100%;
+    max-width: 1400px;
+  }
+
+  .caption p {
+    margin-bottom: 1em;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+  }
